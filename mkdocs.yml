@@ -4,6 +4,9 @@
 # in MkDocs and https://backstage.io/docs/features/techdocs/creating-and-publishing
 # for context regarding Backstage TechDocs.
 
+# Required docs title
+site_name: backstage-techdocs-example documentation
+
 #docs_dir: docs/
 nav:
   - Home: index.md
