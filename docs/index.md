@@ -1,6 +1,6 @@
 # Documentation
 
-This is the documentation front page.
+This is the documentation front page. It's [source](https://github.com/giantswarm/backstage-techdocs-example/blob/main/docs/index.md) is written in Markdown.
 
 ## Code blocks
 
@@ -25,3 +25,12 @@ package main
 
 import "foo.bar/baz"
 ```
+
+## Tables
+
+Markdown tables are possible.
+
+| First Header | Second Header | Third Header |
+| ------------ | ------------- | ------------ |
+| Content Cell | Content Cell  | Content Cell |
+| Content Cell | Content Cell  | Content Cell |
