@@ -12,4 +12,5 @@ nav:
   - Home: index.md
   - other-page.md
 
-edit_uri: edit/main/docs/
+repo_url: https://github.com/giantswarm/backstage-techdocs-example
+edit_uri_template: edit/main/{path}
