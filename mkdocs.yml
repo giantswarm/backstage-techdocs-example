@@ -13,4 +13,4 @@ nav:
   - other-page.md
 
 repo_url: https://github.com/giantswarm/backstage-techdocs-example
-edit_uri_template: edit/main/{path}
+edit_uri_template: edit/main/docs/{path}
