@@ -10,3 +10,4 @@ site_name: backstage-techdocs-example documentation
 #docs_dir: docs/
 nav:
   - Home: index.md
+  - Other page: other-page.md
