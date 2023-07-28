@@ -11,3 +11,5 @@ site_name: backstage-techdocs-example documentation
 nav:
   - Home: index.md
   - other-page.md
+
+edit_uri: edit/main/docs/
